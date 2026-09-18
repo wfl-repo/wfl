@@ -19,6 +19,8 @@ Before using the package, you must configure your NAS path:
 ## 🚀 Usage
 
 Here is a simple example of how to use the package to extract data. 
+*(Note: Create your python script in the root directory of this repository, directly next to the `wfl` package folder, to ensure imports work correctly and to prevent accidentally creating nested `wfl/wfl` folders).*
+
 *(Note: The `output_dir` parameter specifies the local destination folder where the downloaded data will be saved).*
 
 ```python
